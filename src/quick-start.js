@@ -22,7 +22,7 @@ function App() {
                                 Link 컴포넌트를 이용하여 "특수한" 앵커 태그(a)를 생성
                                 (겉모습은 a 태그와 같지만 실제로 페이지 이동이 이루어지지 않고, 브라우저의 주소만 변경함)
                             */}
-                            <Link to="/">Home</Link>
+                            <Link to="/">Home</Link>    {/* to = href */}
                         </li>
                         <li><Link to="/about">About</Link></li>
                         <li><Link to="/users">Users</Link></li>
