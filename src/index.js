@@ -3,4 +3,5 @@
 // import './redirect-component'
 // import './router-hooks'
 // import './nested-route'
-import './404page'
+// import './404page'
+import './nav-link-component'
