@@ -2,4 +2,5 @@
 // import './link-to-pass-object'
 // import './redirect-component'
 // import './router-hooks'
-import './nested-route'
+// import './nested-route'
+import './404page'
